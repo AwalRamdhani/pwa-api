@@ -1,0 +1,24 @@
+{
+products : [
+{"id":1,"name":"Spotted deer","category":"Green"},
+{"id":2,"name":"Pelican, brown","category":"Crimson"},
+{"id":3,"name":"Skink, african","category":"Teal"},
+{"id":4,"name":"Cormorant, pied","category":"Teal"},
+{"id":5,"name":"Desert tortoise","category":"Aquamarine"},
+{"id":6,"name":"Burrowing owl","category":"Khaki"},
+{"id":7,"name":"Jungle cat","category":"Indigo"},
+{"id":8,"name":"Nelson ground squirrel","category":"Yellow"},
+{"id":9,"name":"Weaver, lesser masked","category":"Puce"},
+{"id":10,"name":"Trumpeter, dark-winged","category":"Turquoise"},
+{"id":11,"name":"Black-capped chickadee","category":"Teal"},
+{"id":12,"name":"Brown and yellow marshbird","category":"Yellow"},
+{"id":13,"name":"Richardson's ground squirrel","category":"Khaki"},
+{"id":14,"name":"Heron, giant","category":"Orange"},
+{"id":15,"name":"Ostrich","category":"Maroon"},
+{"id":16,"name":"Pale-throated three-toed sloth","category":"Goldenrod"},
+{"id":17,"name":"Wallaby, bennett's","category":"Teal"},
+{"id":18,"name":"Iguana, common green","category":"Mauv"},
+{"id":19,"name":"Serval","category":"Purple"},
+{"id":20,"name":"Rat, white-faced tree","category":"Goldenrod"}
+]
+}
