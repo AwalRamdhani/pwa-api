@@ -1,5 +1,5 @@
 {
-products : [
+"products" : [
 {"id":1,"name":"Spotted deer","category":"Green"},
 {"id":2,"name":"Pelican, brown","category":"Crimson"},
 {"id":3,"name":"Skink, african","category":"Teal"},
